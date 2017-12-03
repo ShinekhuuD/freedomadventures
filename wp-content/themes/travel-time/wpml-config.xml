@@ -1,0 +1,26 @@
+<!-- 
+cmsmasters_package: Travel Time
+cmsmasters_version: 1.0.0
+-->
+<wpml-config>
+    <admin-texts>
+        <key name="cmsmasters_options_travel_time_header">
+            <key name="travel_time_header_top_line_short_info" />
+            <key name="travel_time_header_top_line_donations_but_text" />
+            <key name="travel_time_header_donations_but_text" />
+            <key name="travel_time_header_add_cont_cust_html" />
+        </key>
+		<key name="cmsmasters_options_travel_time_footer">
+            <key name="travel_time_footer_html" />
+            <key name="travel_time_footer_copyright" />
+        </key>
+		<key name="cmsmasters_options_travel_time_single_project">
+            <key name="travel_time_portfolio_project_details_title" />
+        </key>
+		<key name="cmsmasters_options_travel_time_single_profile">
+            <key name="travel_time_profile_post_details_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
